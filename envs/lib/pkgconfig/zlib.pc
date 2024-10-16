@@ -1,0 +1,13 @@
+prefix=/Users/jonas/Documents/Projects/FanSale/envs
+exec_prefix=/Users/jonas/Documents/Projects/FanSale/envs
+libdir=/Users/jonas/Documents/Projects/FanSale/envs/lib
+sharedlibdir=/Users/jonas/Documents/Projects/FanSale/envs/lib
+includedir=/Users/jonas/Documents/Projects/FanSale/envs/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

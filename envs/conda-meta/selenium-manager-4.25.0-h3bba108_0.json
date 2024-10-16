@@ -1,0 +1,59 @@
+{
+  "build": "h3bba108_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [
+    "__osx >=11.0"
+  ],
+  "depends": [
+    "__osx >=11.0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/selenium-manager-4.25.0-h3bba108_0",
+  "files": [
+    "bin/selenium-manager",
+    "etc/conda/activate.d/selenium-manager_activate.sh",
+    "etc/conda/deactivate.d/selenium-manager_deactivate.sh"
+  ],
+  "fn": "selenium-manager-4.25.0-h3bba108_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/selenium-manager-4.25.0-h3bba108_0",
+    "type": 1
+  },
+  "md5": "2835416e80ad5e163f6f82bfff6a69fa",
+  "name": "selenium-manager",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/selenium-manager-4.25.0-h3bba108_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/selenium-manager",
+        "path_type": "hardlink",
+        "sha256": "76556b4a4e044cfb0264206c8a2032d4cb73c199e766186fbd9ef81fc443c245",
+        "sha256_in_prefix": "76556b4a4e044cfb0264206c8a2032d4cb73c199e766186fbd9ef81fc443c245",
+        "size_in_bytes": 3852016
+      },
+      {
+        "_path": "etc/conda/activate.d/selenium-manager_activate.sh",
+        "path_type": "hardlink",
+        "sha256": "9f44acd2fbfb13fca94f7017517a24ef7618ae6e87525583be74385e951fa07b",
+        "sha256_in_prefix": "9f44acd2fbfb13fca94f7017517a24ef7618ae6e87525583be74385e951fa07b",
+        "size_in_bytes": 161
+      },
+      {
+        "_path": "etc/conda/deactivate.d/selenium-manager_deactivate.sh",
+        "path_type": "hardlink",
+        "sha256": "37a753cff4aedaafdfc5c2d815b6c386d6063f6346981b60c13b85e11c44593f",
+        "sha256_in_prefix": "37a753cff4aedaafdfc5c2d815b6c386d6063f6346981b60c13b85e11c44593f",
+        "size_in_bytes": 145
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8ec5f710cc283bac64894194cc3a4678d921a2e217a194f80c8cfd248d8f6e2b",
+  "size": 1815708,
+  "subdir": "osx-arm64",
+  "timestamp": 1726770337000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/selenium-manager-4.25.0-h3bba108_0.conda",
+  "version": "4.25.0"
+}

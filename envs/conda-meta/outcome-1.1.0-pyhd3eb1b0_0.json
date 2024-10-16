@@ -1,0 +1,168 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "attrs >=19.2.0",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/outcome-1.1.0-pyhd3eb1b0_0",
+  "files": [
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/INSTALLER",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/LICENSE",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/LICENSE.APACHE2",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/LICENSE.MIT",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/METADATA",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/RECORD",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/REQUESTED",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/WHEEL",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/direct_url.json",
+    "lib/python3.13/site-packages/outcome-1.1.0.dist-info/top_level.txt",
+    "lib/python3.13/site-packages/outcome/__init__.py",
+    "lib/python3.13/site-packages/outcome/_impl.py",
+    "lib/python3.13/site-packages/outcome/_util.py",
+    "lib/python3.13/site-packages/outcome/_version.py",
+    "lib/python3.13/site-packages/outcome/__pycache__/__init__.cpython-313.pyc",
+    "lib/python3.13/site-packages/outcome/__pycache__/_impl.cpython-313.pyc",
+    "lib/python3.13/site-packages/outcome/__pycache__/_util.cpython-313.pyc",
+    "lib/python3.13/site-packages/outcome/__pycache__/_version.cpython-313.pyc"
+  ],
+  "fn": "outcome-1.1.0-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/outcome-1.1.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "35fe120094b2391b4fd3c0ab0a1bbbfd",
+  "name": "outcome",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/outcome-1.1.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "652c878488d1456361e08c3f8607fd7ba59892a14103d15cce4ff93c85b5cc8b",
+        "sha256_in_prefix": "652c878488d1456361e08c3f8607fd7ba59892a14103d15cce4ff93c85b5cc8b",
+        "size_in_bytes": 185
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/LICENSE.APACHE2",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/LICENSE.MIT",
+        "path_type": "hardlink",
+        "sha256": "3e6dae555eb92787fc82d1d48355677f454c7f65aeb38d3f9e72bf9a3daf034b",
+        "sha256_in_prefix": "3e6dae555eb92787fc82d1d48355677f454c7f65aeb38d3f9e72bf9a3daf034b",
+        "size_in_bytes": 1046
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "20317b0d7a9481a352618a2f1884b75cd28f90802772cbd30e9d0c4efb19c31b",
+        "sha256_in_prefix": "20317b0d7a9481a352618a2f1884b75cd28f90802772cbd30e9d0c4efb19c31b",
+        "size_in_bytes": 2287
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7648cd2cfce2424e0508fec8fb4facb59f43808f37e737bd8e25c4eb2958436e",
+        "sha256_in_prefix": "7648cd2cfce2424e0508fec8fb4facb59f43808f37e737bd8e25c4eb2958436e",
+        "size_in_bytes": 1332
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e57180b7ad38a493bac084bc66439dba5c46dc7097c3e96104117b54d3a2c431",
+        "sha256_in_prefix": "e57180b7ad38a493bac084bc66439dba5c46dc7097c3e96104117b54d3a2c431",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "site-packages/outcome-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "832394328b155dc2181e796fc47b768de3439c422deb69f00a4d4f29ab6b70d8",
+        "sha256_in_prefix": "832394328b155dc2181e796fc47b768de3439c422deb69f00a4d4f29ab6b70d8",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/outcome/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2afa52e8f0de14192ff31f893b345ca51b3f608969b83f2a8e4883cc1eb65f46",
+        "sha256_in_prefix": "2afa52e8f0de14192ff31f893b345ca51b3f608969b83f2a8e4883cc1eb65f46",
+        "size_in_bytes": 351
+      },
+      {
+        "_path": "site-packages/outcome/_impl.py",
+        "path_type": "hardlink",
+        "sha256": "d0b5c08b52bc33c1c3c483324697353c3d61a85517751ff4af0a7ae2de8c18bd",
+        "sha256_in_prefix": "d0b5c08b52bc33c1c3c483324697353c3d61a85517751ff4af0a7ae2de8c18bd",
+        "size_in_bytes": 4705
+      },
+      {
+        "_path": "site-packages/outcome/_util.py",
+        "path_type": "hardlink",
+        "sha256": "0c16af2b1ef8f35f196b74219874e422ceb888b8c727c3c7e071d8c2e8ebec32",
+        "sha256_in_prefix": "0c16af2b1ef8f35f196b74219874e422ceb888b8c727c3c7e071d8c2e8ebec32",
+        "size_in_bytes": 689
+      },
+      {
+        "_path": "site-packages/outcome/_version.py",
+        "path_type": "hardlink",
+        "sha256": "dc2a76bfaae7a10ec871677a6327f8ff1fdb80c29cdcf9d3d93956407deeddc0",
+        "sha256_in_prefix": "dc2a76bfaae7a10ec871677a6327f8ff1fdb80c29cdcf9d3d93956407deeddc0",
+        "size_in_bytes": 89
+      },
+      {
+        "_path": "lib/python3.13/site-packages/outcome/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.13/site-packages/outcome/__pycache__/_impl.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.13/site-packages/outcome/__pycache__/_util.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.13/site-packages/outcome/__pycache__/_version.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0e6309969e3ce27abd8284e408274e7af45d258a8aa1101e75fdc04f605f0483",
+  "size": 14222,
+  "subdir": "noarch",
+  "timestamp": 1609338862000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/outcome-1.1.0-pyhd3eb1b0_0.conda",
+  "version": "1.1.0"
+}

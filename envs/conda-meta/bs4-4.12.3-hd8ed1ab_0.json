@@ -1,0 +1,33 @@
+{
+  "build": "hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "beautifulsoup4 >=4.12.3,<4.12.4.0a0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/bs4-4.12.3-hd8ed1ab_0",
+  "files": [],
+  "fn": "bs4-4.12.3-hd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/bs4-4.12.3-hd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "a96cb59624c88eaf9939559b53a1f6cd",
+  "name": "bs4",
+  "noarch": "generic",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/bs4-4.12.3-hd8ed1ab_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge::bs4",
+  "sha256": "c1651b55bd1450880ad1b03af481e626c333fed4eca3a315f8498da5156ae384",
+  "size": 6829,
+  "subdir": "noarch",
+  "timestamp": 1705564829000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/bs4-4.12.3-hd8ed1ab_0.conda",
+  "version": "4.12.3"
+}
