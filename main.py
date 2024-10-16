@@ -1,11 +1,15 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium_stealth import stealth
 import time
 
 def check_fansale_tickets_selenium(url):
     # Headless Modus
     options = webdriver.ChromeOptions()
-    # options.add_argument('headless')  # Wenn du im Headless-Modus arbeiten möchtest, kannst du das aktivieren
+    #options.add_argument('headless')
+    options.add_argument('window-size=1920x1080')  # Stelle sicher, dass die Seite voll sichtbar ist
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
+    
     driver = webdriver.Chrome(options=options)
     
     # Rufe die Seite auf
